@@ -1,0 +1,12 @@
+\documentclass{article}
+\usepackage{lipsum}
+\title{Sample Abstract/Summary}
+\author{}
+\date{}
+\begin{document}
+\maketitle
+\section*{Abstract}
+\lipsum[1]
+\vspace{0.5cm}
+\lipsum[3]
+\end{document}
